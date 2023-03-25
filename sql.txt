@@ -1,0 +1,2 @@
+GET /api/check-auth
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFzZGZAbXlzdGVyaWNlLmNvbSIsImlhdCI6MTYxODk0NTIzMCwiZXhwIjoxNjE4OTQ4ODMwfQ.3crs4s4tE
